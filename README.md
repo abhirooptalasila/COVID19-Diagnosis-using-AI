@@ -56,11 +56,12 @@ Radiologists have watched the coronavirus disease 2019 (COVID-19) pandemic unfol
 
 Expected Outcome: Diagnosing or detecting patients infected with COVID19 using chest radiography images 
 
-<img src="images/workup.png" width="500"></img>
+<img src="images/workup.png" width="700"></img>
 
 ## Present Guidelines
 
 The American College of Radiology (ACR) released its first official guidance for radiologists facing the expanding COVID-19 pandemic. Based on their research, the ACR made these four recommendations:
+
 * CT should not be used to screen for or as a first-line test to diagnose COVID-19
 * CT should be used sparingly and reserved for hospitalized, symptomatic patients with specific clinical indications for CT. Appropriate infection control procedures should be followed before scanning subsequent patients
 * Facilities may consider deploying portable radiography units in ambulatory care facilities for use when chest X-rays are considered medically necessary
@@ -140,6 +141,8 @@ Future work to make a full-fleged platform is:
 * Alert Mechanisms
 	- All mobiles of people in confinement zones should be **monitored for movements 24/7** (Geofencing)
 	- If anybody moves outside defined area send alert to police patrols in that jurisdiction
+
+To improve model accuracy we could obtain a proper dataset of CT scans and **collaborate with Radiologists to produce segmentation masks** so that the model acctually searches for symptoms of COVID in CT scans.
 
 
 ## References
