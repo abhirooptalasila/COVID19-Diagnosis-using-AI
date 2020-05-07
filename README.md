@@ -4,6 +4,8 @@
 
 This is our submission for [SAMHAR-COVID19 Hackathon](https://samhar-covid19hackathon.cdac.in/) organized by the Government of India.
 
+Team Name : **Flatpex**
+
 [Front-End Mockup](http://gamezordd.github.io/COVID_FrontEnd)
 
 ---
@@ -69,7 +71,7 @@ The American College of Radiology (ACR) released its first official guidance for
 
 ## Dataset
 
-We have used 746 CT scans from [this]((https://www.kaggle.com/luisblanche/covidct)) Kaggle dataset
+We have used 746 CT scans from [this](https://www.kaggle.com/luisblanche/covidct) Kaggle dataset
 
 
 ## Our Approach
